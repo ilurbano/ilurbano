@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on commissions
 - 📫 You can reach me through my email address
-- ⚡ Fun fact: I also have personal account here named @four-bits-28
+- ⚡ Fun fact: I also have a personal account here named @four-bits-28
 
 <!---
 ilurbano/ilurbano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
